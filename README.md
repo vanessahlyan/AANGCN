@@ -18,6 +18,6 @@ The /edges/tfidf.py file is used to prepare the adjacency matrix A.
 The /transformers and /finetuning_BERT repos are used for finetuning BERT embeddings via the masked language modeling task on our own corpus. The repo /combined-test-mlm stores the finetuned BERT model.
 
 ## Model Architecture
-train.py, model.py, optimizer.py, utils.py, and myutils.py are implementations of the graph-based model.
+train.py, model.py, layers.py optimizer.py, utils.py, and myutils.py make up the implementation of the H-VGAE model.
 
 
