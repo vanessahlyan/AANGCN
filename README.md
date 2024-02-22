@@ -1,5 +1,5 @@
-# Cross-domain Prerequisite Chain Learning using HeterogeneousVariational Graph Autoencoders (H-VGAE)
-This repo contains code and data for Vanessa Yan's final project for the Advanced Natural Language Processing class at Yale University. Irene Li and Vanessa Yan collaborated on this project. The writeup was written by Vanessa Yan.
+# Cross-domain Prerequisite Chain Learning using Heterogeneous Variational Graph Autoencoders (H-VGAE)
+This repo contains code and data for our paper published in NeurIPS 2021. Irene Li and Vanessa Yan collaborated on this project. The writeup was written by Vanessa Yan.
 
 
 ## To run the code
